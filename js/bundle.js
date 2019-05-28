@@ -14,7 +14,7 @@ function handleTyping() {
       "Daygo Campos",
       "Kauane Katsumi",
       "Erick Dourado",
-      "Danial Correa",
+      "Daniel Correa",
       "Bruno Figueiredo",
       "Almir Chaves",
       "Alex Oliveira",
