@@ -1,0 +1,123 @@
+html,
+body {
+  font-family: "Roboto Slab", sans-serif;
+  height: 100%;
+  margin-top: -15px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none !important;
+}
+
+* {
+  background-color: #222426 !important;
+}
+
+#contact {
+  background-color: #222426;
+  font-size: 25px;
+}
+#contact strong {
+  color: #00F700;
+}
+
+.dark-gray-background {
+  background-color: #222426;
+}
+
+.dark-gray-font {
+  color: #222426 !important;
+}
+
+.light-white-font {
+  color: #fdfdff;
+}
+
+.light-blue-background {
+  background-color: #edf9f9;
+}
+
+.middle-green-font {
+  color: #00F700 !important;
+}
+
+.middle-blue-background {
+  background-color: #00F700;
+}
+
+.dark-blue-font {
+  color: #546a7b;
+}
+
+.center {
+  left: 50%;
+  position: relative;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.element {
+  background-color: #00F700 !important;
+  color: #222426;
+}
+
+.container-fluid {
+  min-height: auto;
+  padding: 0;
+}
+
+.fill {
+  height: 20%;
+  min-height: 100%;
+}
+
+
+
+.fixed-width {
+  max-width: 300px;
+  min-width: 300px;
+}
+
+.typed-cursor {
+  -moz-animation: blink 0.7s infinite;
+  -webkit-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  opacity: 1;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
